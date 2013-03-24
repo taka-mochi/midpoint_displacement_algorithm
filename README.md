@@ -3,6 +3,7 @@ midpoint_displacement_algorithm
 
 3Dメッシュに対して中点変位法を行うプログラムです。
 Windows上でOpenGL使って書いています。
+でもWindows依存なコードは書いていないはず。
 
 操作方法
 n: 分割数を増やす
