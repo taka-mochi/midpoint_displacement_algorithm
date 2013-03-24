@@ -1,4 +1,12 @@
 midpoint_displacement_algorithm
 ===============================
 
-3D Midpoint displacement algorithm with OpenGL 2
+3Dメッシュに対して中点変位法を行うプログラムです。
+OpenGL2系で書いています。
+
+操作方法
+n: 分割数を増やす
+p: 分割数を減らす
+十字キーの左右: カメラ回転
+
+分割数が1増えるとポリゴンの数が4倍になるので、ある程度分割すると処理が一気に重くなります。
